@@ -1,2 +1,1 @@
-# NLP-Sentiment-Analysis-for-US-Election
-NLP Sentiment Analysis for US Election
+Natural Language Processing is a subfield of Artificial Intelligence that enables computers to understand, analyze, and manipulate human language. This article discusses the prediction of U.S. election results based on Sentiment Analysis using tweets.
